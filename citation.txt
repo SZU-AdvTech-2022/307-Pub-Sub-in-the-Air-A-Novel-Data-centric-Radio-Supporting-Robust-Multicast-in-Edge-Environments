@@ -1,0 +1,7 @@
+@article{REPO-308,
+    author = "Elbadry, Mohammed and Ye, Fan and Milder, Peter and Yang, Yuanyuan",
+    journal = "IEEE/ACM Symposium on Edge Computing (SEC)",
+    pages = "257-270",
+    title = "{Pub/Sub in the Air: A Novel Data-centric Radio Supporting Robust Multicast in Edge Environments}",
+    year = "2020"
+}
